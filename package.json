@@ -1,0 +1,26 @@
+{
+  "name": "ajoxi-website",
+  "version": "1.0.0",
+  "description": "Official website for Ajoxi, delivering advanced cloud communication, VoIP, and contact center solutions to businesses worldwide.",
+  "author": "Ariyan Khan <info@ajoxi.com> (https://www.linkedin.com/in/ariyankhan92/)",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "echo \"No start script configured. You might want to add a command to serve your static files, e.g., using 'live-server' or 'http-server'.\"",
+    "lint": "echo \"No linter configured. Consider adding ESLint or Prettier.\"",
+    "build": "echo \"No build script configured. This would be used if you had a build process (e.g., for SASS, Babel, or a framework).\""
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^2.0.0",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoxii/ajoxi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajoxii/ajoxi/issues"
+  },
+  "homepage": "https://www.ajoxi.com/"
+}
